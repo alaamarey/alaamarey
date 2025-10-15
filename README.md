@@ -3,7 +3,9 @@
 ###
 
 <div >
- <h2> I am ALAA MAREY </h2> 
+ <!-- <h2> I am ALAA MAREY </h2>  -->
+ <img src="https://svg-badge.vercel.app/api?label=Alaa%20Marey&color=blue" height="35" />
+
 <h2 align="center" > Front-End Developer (Angular) </h2>  
 </div>
 
