@@ -2,11 +2,11 @@
 
 ###
 
-<div>
-<p align="center">My name is Alaa Marey  and </p>
+<div style="font-weight:700 ; color:blue  ">
+<p align="center" >My name is Alaa Marey  and </p>
 <p align="center"> Front-End Developer (Angular) </p>  
 </div>
-###
+
 
 <h2 align="left">🌱 My Goals as a Fresh Angular Developer</h2>
 
