@@ -3,8 +3,8 @@
 ###
 
 <div >
-<p align="center" >My name is Alaa Marey  and </p>
-<p align="center"> Front-End Developer (Angular) </p>  
+<h2 align="center" style="color:#e34c26;" >My name is Alaa Marey  and </h2>
+<h2 align="center" style="color:#e34c26;"> Front-End Developer (Angular) </h2>  
 </div>
 
 
