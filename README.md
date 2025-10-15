@@ -12,10 +12,11 @@
 
 ###
 
-<p align="left">✨ - Keep learning every day and become confident with Angular ecosystem. 
-<br>- Improve my TypeScript and RxJS skills.
-<br>- Learn more about Angular SSR (Server-Side Rendering) and optimization.  
-<br>- Explore UI design with TailwindCSS , BootstrapCSS and responsive layouts.  </p>
+<p align="left">
+✨- Keep learning every day and become confident with Angular ecosystem. 
+<br>✨- Improve my TypeScript and RxJS skills.
+<br>✨- Learn more about Angular SSR (Server-Side Rendering) and optimization.  
+<br>✨- Explore UI design with TailwindCSS , BootstrapCSS and responsive layouts.  </p>
 
 ###
 
