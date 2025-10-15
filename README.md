@@ -3,8 +3,8 @@
 ###
 
 <div >
-<h2 align="center" >My name is Alaa Marey  and </h2>
-<h2 align="center"> Front-End Developer (Angular) </h2>  
+<p align="center" >My name is Alaa Marey  and </p>
+<p align="center"> Front-End Developer (Angular) </p>  
 </div>
 
 
@@ -69,7 +69,7 @@
   <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/al-aa-marey-965262232">
-  <img src="https://www.linkedin.com/in/al-aa-marey-965262232/" height="35" alt="linkedin logo"  />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
