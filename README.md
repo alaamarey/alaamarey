@@ -2,7 +2,7 @@
 
 ###
 
-<div style="font-weight:700 ; color:blue  ">
+<div >
 <p align="center" >My name is Alaa Marey  and </p>
 <p align="center"> Front-End Developer (Angular) </p>  
 </div>
@@ -37,7 +37,7 @@
 
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
   <img width="12" />
 
 
@@ -59,6 +59,17 @@
 
 
  
+</div>
+
+###
+
+<div align="left">
+  <a  href="alaamarey616@gmail.com"> 
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a src="https://www.linkedin.com/in/al-aa-marey-965262232">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
