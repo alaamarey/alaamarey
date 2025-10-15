@@ -3,8 +3,8 @@
 ###
 
 <div >
- <h2> ![Alaa Marey](https://img.shields.io/badge/Alaa%20Marey-ff4757?style=for-the-badge&logoColor=white) </h2> 
-<h2 align="center" 🟧 JavaScript> Front-End Developer (Angular) </h2>  
+ <h2> I am ALAA MAREY </h2> 
+<h2 align="center" > Front-End Developer (Angular) </h2>  
 </div>
 
 
